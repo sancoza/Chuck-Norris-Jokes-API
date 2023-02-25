@@ -16,28 +16,26 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  
 }
 
 .jokebox {
   width: 20rem;
-  background: #3366CC;
+  background: #3366cc;
   color: #fff;
   padding: 2rem;
   margin-top: 1rem;
   border-radius: 5px;
   height: 10rem;
 }
-.btn{
-background: #3366CC;
-border: none;
-color: #fff;
-padding: 10px 15px;
-border-radius: 5px;
-cursor: pointer;
+.btn {
+  background: #3366cc;
+  border: none;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 .wrapper img {
   height: 5rem;
 }
-
